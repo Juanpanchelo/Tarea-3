@@ -1,0 +1,16 @@
+#todotask{
+    background-color: rgb(113, 244, 115);
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(113, 244, 115);
+}
+
+.col-lg-12{
+    background-color: aquamarine;
+}
+
+#buttonAgregar{
+    background-color: aquamarine;
+}
